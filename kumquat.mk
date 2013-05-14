@@ -99,3 +99,4 @@ $(call inherit-product-if-exists, vendor/sony/kumquat/kumquat-vendor.mk)
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.sf.lcd_density=240
+    ro.space.version=CyanoSpaceMod RC2
