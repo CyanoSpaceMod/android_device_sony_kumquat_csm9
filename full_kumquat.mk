@@ -24,7 +24,7 @@
  
 # Torch
 PRODUCT_PACKAGES := \
-    Torch
+    Torch \
     PHOENIXWallpapers
 
 # Inherit from those products. Most specific first.
